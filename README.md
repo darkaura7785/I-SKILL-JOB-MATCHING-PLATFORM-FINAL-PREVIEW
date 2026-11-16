@@ -65,7 +65,7 @@ job-matching-platform/
 
 ### 1. Clone or Extract the Project
 ```bash
-git clone https://github.com/your-username/job-matching-platform.git
+git clone https://github.com/darkaura7785/I-SKILL-JOB-MATCHING-PLATFORM-FINAL-PREVIEW.git
 cd job-matching-platform
 ```
 
@@ -99,7 +99,7 @@ Open your browser at `http://localhost:8501`.
    git add .
    git commit -m "Initial commit: skill to job matching platform"
    git branch -M main
-   git remote add origin https://github.com/your-username/job-matching-platform.git
+   git remote add origin https://github.com/darkaura7785/I-SKILL-JOB-MATCHING-PLATFORM-FINAL-PREVIEW.git
    git push -u origin main
    ```
 2. Navigate to [share.streamlit.io](https://share.streamlit.io) and log in with your GitHub account.
