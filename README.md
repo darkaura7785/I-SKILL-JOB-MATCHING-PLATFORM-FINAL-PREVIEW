@@ -66,7 +66,7 @@ job-matching-platform/
 ### 1. Clone or Extract the Project
 ```bash
 git clone https://github.com/darkaura7785/I-SKILL-JOB-MATCHING-PLATFORM-FINAL-PREVIEW.git
-cd job-matching-platform
+cd I-SKILL-JOB-MATCHING-PLATFORM-FINAL-PREVIEW
 ```
 
 ### 2. Create and Activate a Virtual Environment
